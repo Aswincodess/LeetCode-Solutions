@@ -23,6 +23,7 @@ Collection of LeetCode questions to ace the coding interview! - Created using [L
 | ------- | ------- |
 | [1952-three-divisors](https://github.com/Aswincodess/LeetCode-Solutions/tree/main/1952-three-divisors/) | Easy |
 | [1979-find-greatest-common-divisor-of-array](https://github.com/Aswincodess/LeetCode-Solutions/tree/main/1979-find-greatest-common-divisor-of-array/) | Easy |
+| [2180-count-integers-with-even-digit-sum](https://github.com/Aswincodess/LeetCode-Solutions/tree/main/2180-count-integers-with-even-digit-sum/) | Easy |
 ## Enumeration
 | Problem Name | Difficulty |
 | ------- | ------- |
@@ -36,4 +37,8 @@ Collection of LeetCode questions to ace the coding interview! - Created using [L
 | Problem Name | Difficulty |
 | ------- | ------- |
 | [0217-contains-duplicate](https://github.com/Aswincodess/LeetCode-Solutions/tree/main/0217-contains-duplicate/) | Easy |
+## Simulation
+| Problem Name | Difficulty |
+| ------- | ------- |
+| [2180-count-integers-with-even-digit-sum](https://github.com/Aswincodess/LeetCode-Solutions/tree/main/2180-count-integers-with-even-digit-sum/) | Easy |
 <!---LeetCode Topics End-->
