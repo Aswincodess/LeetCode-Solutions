@@ -14,6 +14,7 @@ Collection of LeetCode questions to ace the coding interview! - Created using [L
 | [0001-two-sum](https://github.com/Aswincodess/LeetCode-Solutions/tree/main/0001-two-sum/) | Easy |
 | [0217-contains-duplicate](https://github.com/Aswincodess/LeetCode-Solutions/tree/main/0217-contains-duplicate/) | Easy |
 | [0268-missing-number](https://github.com/Aswincodess/LeetCode-Solutions/tree/main/0268-missing-number/) | Easy |
+| [0283-move-zeroes](https://github.com/Aswincodess/LeetCode-Solutions/tree/main/0283-move-zeroes/) | Easy |
 | [1979-find-greatest-common-divisor-of-array](https://github.com/Aswincodess/LeetCode-Solutions/tree/main/1979-find-greatest-common-divisor-of-array/) | Easy |
 | [2114-maximum-number-of-words-found-in-sentences](https://github.com/Aswincodess/LeetCode-Solutions/tree/main/2114-maximum-number-of-words-found-in-sentences/) | Easy |
 | [2706-buy-two-chocolates](https://github.com/Aswincodess/LeetCode-Solutions/tree/main/2706-buy-two-chocolates/) | Easy |
@@ -61,4 +62,8 @@ Collection of LeetCode questions to ace the coding interview! - Created using [L
 | Problem Name | Difficulty |
 | ------- | ------- |
 | [2706-buy-two-chocolates](https://github.com/Aswincodess/LeetCode-Solutions/tree/main/2706-buy-two-chocolates/) | Easy |
+## Two Pointers
+| Problem Name | Difficulty |
+| ------- | ------- |
+| [0283-move-zeroes](https://github.com/Aswincodess/LeetCode-Solutions/tree/main/0283-move-zeroes/) | Easy |
 <!---LeetCode Topics End-->
