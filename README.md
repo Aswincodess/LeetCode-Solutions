@@ -20,6 +20,7 @@ Collection of LeetCode questions to ace the coding interview! - Created using [L
 | [0026-remove-duplicates-from-sorted-array](https://github.com/Aswincodess/LeetCode-Solutions/tree/main/0026-remove-duplicates-from-sorted-array/) | Easy |
 | [0027-remove-element](https://github.com/Aswincodess/LeetCode-Solutions/tree/main/0027-remove-element/) | Easy |
 | [0066-plus-one](https://github.com/Aswincodess/LeetCode-Solutions/tree/main/0066-plus-one/) | Easy |
+| [0121-best-time-to-buy-and-sell-stock](https://github.com/Aswincodess/LeetCode-Solutions/tree/main/0121-best-time-to-buy-and-sell-stock/) | Easy |
 | [0167-two-sum-ii-input-array-is-sorted](https://github.com/Aswincodess/LeetCode-Solutions/tree/main/0167-two-sum-ii-input-array-is-sorted/) | Medium |
 | [0169-majority-element](https://github.com/Aswincodess/LeetCode-Solutions/tree/main/0169-majority-element/) | Easy |
 | [0217-contains-duplicate](https://github.com/Aswincodess/LeetCode-Solutions/tree/main/0217-contains-duplicate/) | Easy |
@@ -116,4 +117,8 @@ Collection of LeetCode questions to ace the coding interview! - Created using [L
 | Problem Name | Difficulty |
 | ------- | ------- |
 | [0169-majority-element](https://github.com/Aswincodess/LeetCode-Solutions/tree/main/0169-majority-element/) | Easy |
+## Dynamic Programming
+| Problem Name | Difficulty |
+| ------- | ------- |
+| [0121-best-time-to-buy-and-sell-stock](https://github.com/Aswincodess/LeetCode-Solutions/tree/main/0121-best-time-to-buy-and-sell-stock/) | Easy |
 <!---LeetCode Topics End-->
