@@ -43,6 +43,7 @@ Collection of LeetCode questions to ace the coding interview! - Created using [L
 | ------- | ------- |
 | [0066-plus-one](https://github.com/Aswincodess/LeetCode-Solutions/tree/main/0066-plus-one/) | Easy |
 | [0268-missing-number](https://github.com/Aswincodess/LeetCode-Solutions/tree/main/0268-missing-number/) | Easy |
+| [0507-perfect-number](https://github.com/Aswincodess/LeetCode-Solutions/tree/main/0507-perfect-number/) | Easy |
 | [1952-three-divisors](https://github.com/Aswincodess/LeetCode-Solutions/tree/main/1952-three-divisors/) | Easy |
 | [1979-find-greatest-common-divisor-of-array](https://github.com/Aswincodess/LeetCode-Solutions/tree/main/1979-find-greatest-common-divisor-of-array/) | Easy |
 | [2180-count-integers-with-even-digit-sum](https://github.com/Aswincodess/LeetCode-Solutions/tree/main/2180-count-integers-with-even-digit-sum/) | Easy |
