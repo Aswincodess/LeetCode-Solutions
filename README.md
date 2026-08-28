@@ -58,6 +58,7 @@ Collection of LeetCode questions to ace the coding interview! - Created using [L
 | [0013-roman-to-integer](https://github.com/Aswincodess/LeetCode-Solutions/tree/main/0013-roman-to-integer/) | Easy |
 | [0066-plus-one](https://github.com/Aswincodess/LeetCode-Solutions/tree/main/0066-plus-one/) | Easy |
 | [0069-sqrtx](https://github.com/Aswincodess/LeetCode-Solutions/tree/main/0069-sqrtx/) | Easy |
+| [0070-climbing-stairs](https://github.com/Aswincodess/LeetCode-Solutions/tree/main/0070-climbing-stairs/) | Easy |
 | [0268-missing-number](https://github.com/Aswincodess/LeetCode-Solutions/tree/main/0268-missing-number/) | Easy |
 | [0507-perfect-number](https://github.com/Aswincodess/LeetCode-Solutions/tree/main/0507-perfect-number/) | Easy |
 | [1952-three-divisors](https://github.com/Aswincodess/LeetCode-Solutions/tree/main/1952-three-divisors/) | Easy |
@@ -149,6 +150,7 @@ Collection of LeetCode questions to ace the coding interview! - Created using [L
 ## Dynamic Programming
 | Problem Name | Difficulty |
 | ------- | ------- |
+| [0070-climbing-stairs](https://github.com/Aswincodess/LeetCode-Solutions/tree/main/0070-climbing-stairs/) | Easy |
 | [0121-best-time-to-buy-and-sell-stock](https://github.com/Aswincodess/LeetCode-Solutions/tree/main/0121-best-time-to-buy-and-sell-stock/) | Easy |
 ## Newton's Method
 | Problem Name | Difficulty |
@@ -166,4 +168,8 @@ Collection of LeetCode questions to ace the coding interview! - Created using [L
 | Problem Name | Difficulty |
 | ------- | ------- |
 | [0496-next-greater-element-i](https://github.com/Aswincodess/LeetCode-Solutions/tree/main/0496-next-greater-element-i/) | Easy |
+## Memoization
+| Problem Name | Difficulty |
+| ------- | ------- |
+| [0070-climbing-stairs](https://github.com/Aswincodess/LeetCode-Solutions/tree/main/0070-climbing-stairs/) | Easy |
 <!---LeetCode Topics End-->
