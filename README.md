@@ -18,6 +18,7 @@ Collection of LeetCode questions to ace the coding interview! - Created using [L
 | [0389-find-the-difference](https://github.com/Aswincodess/LeetCode-Solutions/tree/main/0389-find-the-difference/) | Easy |
 | [0657-robot-return-to-origin](https://github.com/Aswincodess/LeetCode-Solutions/tree/main/0657-robot-return-to-origin/) | Easy |
 | [0709-to-lower-case](https://github.com/Aswincodess/LeetCode-Solutions/tree/main/0709-to-lower-case/) | Easy |
+| [1221-split-a-string-in-balanced-strings](https://github.com/Aswincodess/LeetCode-Solutions/tree/main/1221-split-a-string-in-balanced-strings/) | Easy |
 | [2114-maximum-number-of-words-found-in-sentences](https://github.com/Aswincodess/LeetCode-Solutions/tree/main/2114-maximum-number-of-words-found-in-sentences/) | Easy |
 ## Array
 | Problem Name | Difficulty |
@@ -108,6 +109,7 @@ Collection of LeetCode questions to ace the coding interview! - Created using [L
 ## Greedy
 | Problem Name | Difficulty |
 | ------- | ------- |
+| [1221-split-a-string-in-balanced-strings](https://github.com/Aswincodess/LeetCode-Solutions/tree/main/1221-split-a-string-in-balanced-strings/) | Easy |
 | [2706-buy-two-chocolates](https://github.com/Aswincodess/LeetCode-Solutions/tree/main/2706-buy-two-chocolates/) | Easy |
 ## Two Pointers
 | Problem Name | Difficulty |
@@ -146,6 +148,7 @@ Collection of LeetCode questions to ace the coding interview! - Created using [L
 | Problem Name | Difficulty |
 | ------- | ------- |
 | [0169-majority-element](https://github.com/Aswincodess/LeetCode-Solutions/tree/main/0169-majority-element/) | Easy |
+| [1221-split-a-string-in-balanced-strings](https://github.com/Aswincodess/LeetCode-Solutions/tree/main/1221-split-a-string-in-balanced-strings/) | Easy |
 ## Boyer–Moore Majority Vote Algorithm
 | Problem Name | Difficulty |
 | ------- | ------- |
