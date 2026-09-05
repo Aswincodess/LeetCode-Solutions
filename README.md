@@ -18,6 +18,7 @@ Collection of LeetCode questions to ace the coding interview! - Created using [L
 | [0389-find-the-difference](https://github.com/Aswincodess/LeetCode-Solutions/tree/main/0389-find-the-difference/) | Easy |
 | [0657-robot-return-to-origin](https://github.com/Aswincodess/LeetCode-Solutions/tree/main/0657-robot-return-to-origin/) | Easy |
 | [0709-to-lower-case](https://github.com/Aswincodess/LeetCode-Solutions/tree/main/0709-to-lower-case/) | Easy |
+| [1002-find-common-characters](https://github.com/Aswincodess/LeetCode-Solutions/tree/main/1002-find-common-characters/) | Easy |
 | [1221-split-a-string-in-balanced-strings](https://github.com/Aswincodess/LeetCode-Solutions/tree/main/1221-split-a-string-in-balanced-strings/) | Easy |
 | [2114-maximum-number-of-words-found-in-sentences](https://github.com/Aswincodess/LeetCode-Solutions/tree/main/2114-maximum-number-of-words-found-in-sentences/) | Easy |
 ## Array
@@ -38,6 +39,7 @@ Collection of LeetCode questions to ace the coding interview! - Created using [L
 | [0283-move-zeroes](https://github.com/Aswincodess/LeetCode-Solutions/tree/main/0283-move-zeroes/) | Easy |
 | [0349-intersection-of-two-arrays](https://github.com/Aswincodess/LeetCode-Solutions/tree/main/0349-intersection-of-two-arrays/) | Easy |
 | [0496-next-greater-element-i](https://github.com/Aswincodess/LeetCode-Solutions/tree/main/0496-next-greater-element-i/) | Easy |
+| [1002-find-common-characters](https://github.com/Aswincodess/LeetCode-Solutions/tree/main/1002-find-common-characters/) | Easy |
 | [1979-find-greatest-common-divisor-of-array](https://github.com/Aswincodess/LeetCode-Solutions/tree/main/1979-find-greatest-common-divisor-of-array/) | Easy |
 | [2114-maximum-number-of-words-found-in-sentences](https://github.com/Aswincodess/LeetCode-Solutions/tree/main/2114-maximum-number-of-words-found-in-sentences/) | Easy |
 | [2540-minimum-common-value](https://github.com/Aswincodess/LeetCode-Solutions/tree/main/2540-minimum-common-value/) | Easy |
@@ -54,6 +56,7 @@ Collection of LeetCode questions to ace the coding interview! - Created using [L
 | [0349-intersection-of-two-arrays](https://github.com/Aswincodess/LeetCode-Solutions/tree/main/0349-intersection-of-two-arrays/) | Easy |
 | [0389-find-the-difference](https://github.com/Aswincodess/LeetCode-Solutions/tree/main/0389-find-the-difference/) | Easy |
 | [0496-next-greater-element-i](https://github.com/Aswincodess/LeetCode-Solutions/tree/main/0496-next-greater-element-i/) | Easy |
+| [1002-find-common-characters](https://github.com/Aswincodess/LeetCode-Solutions/tree/main/1002-find-common-characters/) | Easy |
 | [2540-minimum-common-value](https://github.com/Aswincodess/LeetCode-Solutions/tree/main/2540-minimum-common-value/) | Easy |
 ## Math
 | Problem Name | Difficulty |
