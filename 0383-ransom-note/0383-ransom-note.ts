@@ -9,6 +9,8 @@ function canConstruct(ransomNote: string, magazine: string): boolean {
         for (let j = 0; j < magazineArr.length; j++) {
 
             if (ransomNote[i] === magazineArr[j]) {
+
+                
                 magazineArr[j] = "";
                 found = true;
                 break;
