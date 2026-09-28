@@ -40,6 +40,7 @@ Collection of LeetCode questions to ace the coding interview! - Created using [L
 | [0268-missing-number](https://github.com/Aswincodess/LeetCode-Solutions/tree/main/0268-missing-number/) | Easy |
 | [0283-move-zeroes](https://github.com/Aswincodess/LeetCode-Solutions/tree/main/0283-move-zeroes/) | Easy |
 | [0349-intersection-of-two-arrays](https://github.com/Aswincodess/LeetCode-Solutions/tree/main/0349-intersection-of-two-arrays/) | Easy |
+| [0414-third-maximum-number](https://github.com/Aswincodess/LeetCode-Solutions/tree/main/0414-third-maximum-number/) | Easy |
 | [0496-next-greater-element-i](https://github.com/Aswincodess/LeetCode-Solutions/tree/main/0496-next-greater-element-i/) | Easy |
 | [1002-find-common-characters](https://github.com/Aswincodess/LeetCode-Solutions/tree/main/1002-find-common-characters/) | Easy |
 | [1979-find-greatest-common-divisor-of-array](https://github.com/Aswincodess/LeetCode-Solutions/tree/main/1979-find-greatest-common-divisor-of-array/) | Easy |
@@ -93,6 +94,7 @@ Collection of LeetCode questions to ace the coding interview! - Created using [L
 | [0268-missing-number](https://github.com/Aswincodess/LeetCode-Solutions/tree/main/0268-missing-number/) | Easy |
 | [0349-intersection-of-two-arrays](https://github.com/Aswincodess/LeetCode-Solutions/tree/main/0349-intersection-of-two-arrays/) | Easy |
 | [0389-find-the-difference](https://github.com/Aswincodess/LeetCode-Solutions/tree/main/0389-find-the-difference/) | Easy |
+| [0414-third-maximum-number](https://github.com/Aswincodess/LeetCode-Solutions/tree/main/0414-third-maximum-number/) | Easy |
 | [2706-buy-two-chocolates](https://github.com/Aswincodess/LeetCode-Solutions/tree/main/2706-buy-two-chocolates/) | Easy |
 ## Simulation
 | Problem Name | Difficulty |
