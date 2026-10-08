@@ -25,6 +25,7 @@ Collection of LeetCode questions to ace the coding interview! - Created using [L
 | [1002-find-common-characters](https://github.com/Aswincodess/LeetCode-Solutions/tree/main/1002-find-common-characters/) | Easy |
 | [1221-split-a-string-in-balanced-strings](https://github.com/Aswincodess/LeetCode-Solutions/tree/main/1221-split-a-string-in-balanced-strings/) | Easy |
 | [2114-maximum-number-of-words-found-in-sentences](https://github.com/Aswincodess/LeetCode-Solutions/tree/main/2114-maximum-number-of-words-found-in-sentences/) | Easy |
+| [3090-maximum-length-substring-with-two-occurrences](https://github.com/Aswincodess/LeetCode-Solutions/tree/main/3090-maximum-length-substring-with-two-occurrences/) | Easy |
 ## Array
 | Problem Name | Difficulty |
 | ------- | ------- |
@@ -65,6 +66,7 @@ Collection of LeetCode questions to ace the coding interview! - Created using [L
 | [0496-next-greater-element-i](https://github.com/Aswincodess/LeetCode-Solutions/tree/main/0496-next-greater-element-i/) | Easy |
 | [1002-find-common-characters](https://github.com/Aswincodess/LeetCode-Solutions/tree/main/1002-find-common-characters/) | Easy |
 | [2540-minimum-common-value](https://github.com/Aswincodess/LeetCode-Solutions/tree/main/2540-minimum-common-value/) | Easy |
+| [3090-maximum-length-substring-with-two-occurrences](https://github.com/Aswincodess/LeetCode-Solutions/tree/main/3090-maximum-length-substring-with-two-occurrences/) | Easy |
 ## Math
 | Problem Name | Difficulty |
 | ------- | ------- |
@@ -207,4 +209,8 @@ Collection of LeetCode questions to ace the coding interview! - Created using [L
 | Problem Name | Difficulty |
 | ------- | ------- |
 | [0387-first-unique-character-in-a-string](https://github.com/Aswincodess/LeetCode-Solutions/tree/main/0387-first-unique-character-in-a-string/) | Easy |
+## Sliding Window
+| Problem Name | Difficulty |
+| ------- | ------- |
+| [3090-maximum-length-substring-with-two-occurrences](https://github.com/Aswincodess/LeetCode-Solutions/tree/main/3090-maximum-length-substring-with-two-occurrences/) | Easy |
 <!---LeetCode Topics End-->
