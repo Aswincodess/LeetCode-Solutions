@@ -14,6 +14,7 @@ Collection of LeetCode questions to ace the coding interview! - Created using [L
 | [0067-add-binary](https://github.com/Aswincodess/LeetCode-Solutions/tree/main/0067-add-binary/) | Easy |
 | [0125-valid-palindrome](https://github.com/Aswincodess/LeetCode-Solutions/tree/main/0125-valid-palindrome/) | Easy |
 | [0151-reverse-words-in-a-string](https://github.com/Aswincodess/LeetCode-Solutions/tree/main/0151-reverse-words-in-a-string/) | Medium |
+| [0205-isomorphic-strings](https://github.com/Aswincodess/LeetCode-Solutions/tree/main/0205-isomorphic-strings/) | Easy |
 | [0242-valid-anagram](https://github.com/Aswincodess/LeetCode-Solutions/tree/main/0242-valid-anagram/) | Easy |
 | [0344-reverse-string](https://github.com/Aswincodess/LeetCode-Solutions/tree/main/0344-reverse-string/) | Easy |
 | [0345-reverse-vowels-of-a-string](https://github.com/Aswincodess/LeetCode-Solutions/tree/main/0345-reverse-vowels-of-a-string/) | Easy |
@@ -57,6 +58,7 @@ Collection of LeetCode questions to ace the coding interview! - Created using [L
 | [0001-two-sum](https://github.com/Aswincodess/LeetCode-Solutions/tree/main/0001-two-sum/) | Easy |
 | [0013-roman-to-integer](https://github.com/Aswincodess/LeetCode-Solutions/tree/main/0013-roman-to-integer/) | Easy |
 | [0169-majority-element](https://github.com/Aswincodess/LeetCode-Solutions/tree/main/0169-majority-element/) | Easy |
+| [0205-isomorphic-strings](https://github.com/Aswincodess/LeetCode-Solutions/tree/main/0205-isomorphic-strings/) | Easy |
 | [0217-contains-duplicate](https://github.com/Aswincodess/LeetCode-Solutions/tree/main/0217-contains-duplicate/) | Easy |
 | [0242-valid-anagram](https://github.com/Aswincodess/LeetCode-Solutions/tree/main/0242-valid-anagram/) | Easy |
 | [0268-missing-number](https://github.com/Aswincodess/LeetCode-Solutions/tree/main/0268-missing-number/) | Easy |
