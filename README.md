@@ -224,4 +224,8 @@ Collection of LeetCode questions to ace the coding interview! - Created using [L
 | Problem Name | Difficulty |
 | ------- | ------- |
 | [0509-fibonacci-number](https://github.com/Aswincodess/LeetCode-Solutions/tree/main/0509-fibonacci-number/) | Easy |
+## Database
+| Problem Name | Difficulty |
+| ------- | ------- |
+| [0182-duplicate-emails](https://github.com/Aswincodess/LeetCode-Solutions/tree/main/0182-duplicate-emails/) | Easy |
 <!---LeetCode Topics End-->
